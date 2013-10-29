@@ -86,4 +86,4 @@ New Judges are not bound by the decisions of old Judges. New Judges may, however
 
 This rule takes precedence over every other rule determining the winner. 
 
-**301** For a user to be an eligible voter, they must cast a vote within 36 hours of the proposal.
+**301.** For a user to be an eligible voter, they must cast a vote within 36 hours of the proposal.
