@@ -10,8 +10,6 @@
 
 **104.** All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.
 
-**105.** Every player is an eligible voter. Every eligible voter must participate in every vote on rule-changes.
-
 **106.** All proposed rule-changes shall be written down before they are voted on. If they are adopted, they shall guide play in the form in which they were voted on.
 
 **107.** No rule-change may take effect earlier than the moment of the completion of the vote that adopted it, even if its wording explicitly states otherwise. No rule-change may have retroactive application.
@@ -87,3 +85,5 @@ This rule takes precedence over every other rule determining the winner.
 **301.** For a user to be an eligible voter, they must cast a vote within 36 hours of the proposal.
 
 **302.** A proposal is adopted if and only if 2/3 of the votes cast were in favor of the proposal. The exception to this rule is if the final form of the proposal is submitted as a 5-7-5 Haiku, then the proposal only needs a simple majority (of votes cast) in its favor to be accepted. At least 2/3 of all active players must have participated in the vote, else the vote is void. Required numbers in this rule, such as "active players" and "votes needed to pass", are always rounded up to the nearest integer.
+
+**303.** Every player is an eligible voter. Every eligible voter must participate in every vote on rule-changes.
