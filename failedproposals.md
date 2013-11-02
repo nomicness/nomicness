@@ -1,0 +1,3 @@
+**304.** One turn consists of (1) the enactment, repeal, or amendment of a mutable rule; or (2) the enactment, repeal, or amendment of an amendment of a mutable rule; or (3) the transmutation of an immutable rule into a mutable rule or vice versa; or (4) the transmutation of an immutable rule to a mutable rule with an added amendment.
+
+The turn ends by a player subtracting 291 from the ordinal number of their proposal and multiply the result by the fraction of favorable votes it received, rounded to the nearest integer. This is their score for the turn. (This yields a number between 0 and 10 for the first player, with the upper limit increasing by one each turn; more points are awarded for more popular proposals.)
