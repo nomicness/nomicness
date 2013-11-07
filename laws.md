@@ -88,9 +88,7 @@ This rule takes precedence over every other rule determining the winner.
 
 **303.** Every player is an eligible voter. Every eligible voter must participate in every vote on rule-changes.
 
-**306**
-
-repeal 204
+**306.** repeal 204
 
 you guys are jerks, voting nay
 
