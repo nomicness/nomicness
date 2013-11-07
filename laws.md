@@ -87,3 +87,11 @@ This rule takes precedence over every other rule determining the winner.
 **302.** A proposal is adopted if and only if 2/3 of the votes cast were in favor of the proposal. The exception to this rule is if the final form of the proposal is submitted as a 5-7-5 Haiku, then the proposal only needs a simple majority (of votes cast) in its favor to be accepted. At least 2/3 of all active players must have participated in the vote, else the vote is void. Required numbers in this rule, such as "active players" and "votes needed to pass", are always rounded up to the nearest integer.
 
 **303.** Every player is an eligible voter. Every eligible voter must participate in every vote on rule-changes.
+
+**306**
+
+repeal 204
+
+you guys are jerks, voting nay
+
+on all of the things
