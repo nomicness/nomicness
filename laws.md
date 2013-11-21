@@ -36,10 +36,6 @@ If a rule is repealed and reenacted, it receives the number of the proposal to r
 
 #Mutable Rules
 
-**201.** Players shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
-
-In mail and computer games, players shall alternate in alphabetical order by surname.
-
 **202.** One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) throwing one die once and adding the number of points on its face to one's score.
 
 In mail and computer games, instead of throwing a die, players subtract 291 from the ordinal number of their proposal and multiply the result by the fraction of favorable votes it received, rounded to the nearest integer. (This yields a number between 0 and 10 for the first player, with the upper limit increasing by one each turn; more points are awarded for more popular proposals.)
@@ -91,3 +87,5 @@ This rule takes precedence over every other rule determining the winner.
 you guys are jerks, voting nay
 
 on all of the things
+
+**308.** Players shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted, unless a player does not make a proposal within 48 hours of the end of the previous players turn, in which case that players turn is skipped. For this rule a player's turn being skipped counts as the end of their turn. 
