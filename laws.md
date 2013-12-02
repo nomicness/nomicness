@@ -91,7 +91,7 @@ on all of the things
 
 **313.** Every player is an eligible voter. Every eligible voter may vote while voting is open. Voting shall remain open from the time it is declared so until one of following conditions is met:
 
-    Every eligible voter has voted.
-    2/3 of eligible voters have voted and voting has been opened for 48 hours or more
+1. Every eligible voter has voted.
+2. 2/3 of eligible voters have voted and voting has been opened for 48 hours or more
 
 This law takes precedence over 301.
