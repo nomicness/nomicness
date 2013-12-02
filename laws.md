@@ -80,7 +80,6 @@ This rule takes precedence over every other rule determining the winner.
 
 **302.** A proposal is adopted if and only if 2/3 of the votes cast were in favor of the proposal. The exception to this rule is if the final form of the proposal is submitted as a 5-7-5 Haiku, then the proposal only needs a simple majority (of votes cast) in its favor to be accepted. At least 2/3 of all active players must have participated in the vote, else the vote is void. Required numbers in this rule, such as "active players" and "votes needed to pass", are always rounded up to the nearest integer.
 
-**303.** Every player is an eligible voter. Every eligible voter must participate in every vote on rule-changes.
 
 **306.** repeal 204
 
@@ -89,3 +88,10 @@ you guys are jerks, voting nay
 on all of the things
 
 **308.** Players shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted, unless a player does not make a proposal within 48 hours of the end of the previous players turn, in which case that players turn is skipped. For this rule a player's turn being skipped counts as the end of their turn. 
+
+**313.** Every player is an eligible voter. Every eligible voter may vote while voting is open. Voting shall remain open from the time it is declared so until one of following conditions is met:
+
+    Every eligible voter has voted.
+    2/3 of eligible voters have voted and voting has been opened for 48 hours or more
+
+This law takes precedence over 301.
