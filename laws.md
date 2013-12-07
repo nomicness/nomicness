@@ -95,3 +95,5 @@ on all of the things
 2. 2/3 of eligible voters have voted and voting has been opened for 48 hours or more
 
 This law takes precedence over 301.
+
+*314.* Voting automatically opens 48 hours after a proposal is proposed. The speaker may open it earlier at any time.
