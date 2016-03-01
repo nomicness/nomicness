@@ -96,4 +96,4 @@ on all of the things
 
 This law takes precedence over 301.
 
-*314.* Voting automatically opens 48 hours after a proposal is proposed. The speaker may open it earlier at any time.
+**314.** Voting automatically opens 48 hours after a proposal is proposed. The speaker may open it earlier at any time.
